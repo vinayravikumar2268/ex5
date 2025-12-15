@@ -158,7 +158,7 @@ urlpatterns = [
     path('areaofrectangle/', views.rectarea, name='areaofrectangle'),
     path('', views.rectarea, name='areaofrectangleroot'),
 ]
-
+~~~
 
 ## SERVER SIDE PROCESSING:
 Screenshot 2025-12-15 140822.png
